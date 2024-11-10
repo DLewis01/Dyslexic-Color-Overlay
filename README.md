@@ -10,7 +10,7 @@ If this helps you, please let me know.
 
 Installation
 
-install tampermonkey or greasemonkey extensions in your browser.
-open tampermonkey
-click the settings tab
-in the "Import from URL" box enter the location 
+    1. install tampermonkey or greasemonkey extensions in your browser.
+    2. open tampermonkey
+    3. click the settings tab
+    4. in the "Import from URL" box enter the location https://github.com/DLewis01/Dyslexic-Color-Overlay/blob/main/Dyslexic%20Color%20Overlay-1.0.user.js
